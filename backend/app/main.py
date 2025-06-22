@@ -1,6 +1,9 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.api.routes import router
+from app.core.downloader import download_missing_models
+
+download_missing_models()
 
 app = FastAPI(
     title="MedScan.AI",

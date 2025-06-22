@@ -68,9 +68,17 @@ MedScan.AI is a full-stack AI-powered web application that predicts possible dis
 
 ---
 
+
 ## 🛠️ Installation & Setup
 
-### 🔧 Clone the Repository
+### 🔽 Model Files & Dataset
+
+Model and vectorizer files are hosted on Google Drive. They are auto-downloaded on first run using `gdown`.
+
+If you prefer manual download, grab them from this folder:  
+👉 [Google Drive Folder](https://drive.google.com/drive/folders/1CrhC1hfwhTJfvsBjuaRE479pPysU1CMO)
+
+Place all `.pkl` files inside the `/models` folder.
 
 ```bash
 git clone https://github.com/puravnayak/medscan-ai.git
