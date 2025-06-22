@@ -1,0 +1,746 @@
+                                                          precision    recall  f1-score   support
+
+                               abdominal aortic aneurysm       1.00      1.00      1.00        28
+                                        abdominal hernia       0.97      0.96      0.97        81
+                                         abscess of nose       0.89      0.88      0.89        58
+                                     abscess of the lung       1.00      0.75      0.86         4
+                                  abscess of the pharynx       0.87      0.90      0.88        68
+                                    acanthosis nigricans       1.00      0.83      0.91         6
+                                               acariasis       1.00      0.86      0.92         7
+                                               achalasia       0.82      0.53      0.64        17
+                                                    acne       0.95      0.71      0.81        99
+                                       actinic keratosis       0.93      0.75      0.83       182
+                                     acute bronchiolitis       0.93      0.90      0.91       241
+                                        acute bronchitis       0.81      0.77      0.79       243
+                                      acute bronchospasm       0.65      0.69      0.66       181
+                   acute fatty liver of pregnancy (aflp)       0.00      0.00      0.00         2
+                                          acute glaucoma       0.57      0.29      0.38        42
+                                     acute kidney injury       0.95      0.96      0.95       182
+                                      acute otitis media       0.72      0.80      0.75       137
+                                      acute pancreatitis       0.90      0.90      0.90       241
+              acute respiratory distress syndrome (ards)       0.89      0.88      0.88        90
+                                         acute sinusitis       0.85      0.85      0.85       181
+                                   acute stress reaction       0.90      0.92      0.91       182
+                     adhesive capsulitis of the shoulder       1.00      0.73      0.85        15
+                                     adjustment reaction       0.69      0.93      0.79       101
+                                         adrenal adenoma       1.00      0.71      0.83         7
+                                          adrenal cancer       0.00      0.00      0.00         1
+                                           alcohol abuse       0.93      0.83      0.88       102
+                                    alcohol intoxication       0.93      0.93      0.93        70
+                                      alcohol withdrawal       0.91      0.95      0.93       133
+                                 alcoholic liver disease       0.98      0.96      0.97        49
+                                                 allergy       0.96      0.97      0.96       181
+                                      allergy to animals       1.00      0.75      0.86         8
+                                                alopecia       0.81      0.82      0.82        68
+                                       alzheimer disease       0.98      0.87      0.92        67
+                                               amblyopia       1.00      0.78      0.88         9
+                                             amyloidosis       0.00      0.00      0.00         1
+                     amyotrophic lateral sclerosis (als)       1.00      0.92      0.96        12
+                                            anal fissure       0.97      0.80      0.88        45
+                                            anal fistula       1.00      0.75      0.86         4
+                                                  anemia       0.98      0.89      0.94        66
+                    anemia due to chronic kidney disease       1.00      0.90      0.95        10
+                                anemia due to malignancy       0.00      0.00      0.00         2
+                               anemia of chronic disease       0.70      0.88      0.78         8
+                                                  angina       0.97      0.94      0.95       181
+                                  ankylosing spondylitis       0.87      0.92      0.90       121
+                                                 anxiety       0.92      0.94      0.93       240
+                                    aortic valve disease       0.91      0.98      0.94        90
+                                                 aphakia       0.00      0.00      0.00         2
+                                          aphthous ulcer       0.76      0.86      0.81        49
+                                         aplastic anemia       1.00      0.93      0.96        14
+                                            appendicitis       0.90      0.86      0.88       181
+                                              arrhythmia       0.81      0.92      0.86        52
+                                    arthritis of the hip       0.98      0.95      0.96       242
+                                   ascending cholangitis       1.00      0.93      0.96        14
+                                       asperger syndrome       0.76      0.91      0.83        68
+                                           aspergillosis       0.00      0.00      0.00         2
+                                                  asthma       0.84      0.80      0.82       181
+                                             astigmatism       0.68      0.86      0.76        64
+                                             atelectasis       0.81      0.65      0.72        20
+                                          athlete's foot       0.63      0.88      0.73        76
+                                          atonic bladder       0.80      0.86      0.83        14
+                                     atrial fibrillation       1.00      0.07      0.13        14
+                                          atrial flutter       1.00      0.85      0.92        48
+                                 atrophic skin condition       0.78      0.73      0.75        88
+                                      atrophic vaginitis       0.76      0.85      0.80        66
+                        atrophy of the corpus cavernosum       1.00      1.00      1.00         9
+         attention deficit hyperactivity disorder (adhd)       0.81      0.82      0.81       101
+                                                  autism       0.98      0.92      0.95        90
+                       autonomic nervous system disorder       1.00      0.94      0.97        17
+                                      avascular necrosis       0.00      0.00      0.00         2
+                                               balanitis       0.96      0.97      0.96        91
+                                              bell palsy       0.95      0.93      0.94       137
+                                      benign kidney cyst       0.95      0.85      0.90        41
+            benign paroxysmal positional vertical (bppv)       0.92      0.98      0.95        89
+                      benign prostatic hyperplasia (bph)       0.96      0.95      0.96       241
+                   benign vaginal discharge (leukorrhea)       0.88      0.94      0.91       136
+                                        bipolar disorder       0.66      0.74      0.70       133
+                                            birth trauma       1.00      1.00      1.00         2
+                                          bladder cancer       0.96      1.00      0.98        25
+                                        bladder disorder       0.54      0.75      0.62        91
+                                     bladder obstruction       0.86      0.94      0.90        68
+                                             blepharitis       0.79      0.81      0.80       181
+                                           blepharospasm       0.00      0.00      0.00         1
+                                             bone cancer       0.94      0.94      0.94        17
+                                           bone disorder       0.94      0.98      0.96        51
+                             bone spur of the calcaneous       1.00      0.33      0.50         6
+                                       brachial neuritis       0.88      0.86      0.87       181
+                                            brain cancer       0.95      0.87      0.91        45
+                                           breast cancer       0.00      0.00      0.00         1
+                                             breast cyst       0.00      0.00      0.00         4
+                             breast infection (mastitis)       0.95      1.00      0.98       100
+                                            broken tooth       1.00      0.88      0.94        33
+                                                  bunion       1.00      0.75      0.86         8
+                                                    burn       1.00      1.00      1.00        11
+                                                bursitis       0.96      0.98      0.97       242
+                                                  callus       0.80      0.83      0.82       103
+                               carbon monoxide poisoning       0.65      0.72      0.68        18
+                                          cardiac arrest       0.90      0.93      0.91        69
+                                          cardiomyopathy       0.91      0.82      0.86        62
+                                  carpal tunnel syndrome       0.94      0.94      0.94       179
+                                     cat scratch disease       0.00      0.00      0.00         1
+                                                cataract       0.75      0.66      0.70       121
+                                          celiac disease       0.82      0.90      0.86        30
+                          cellulitis or abscess of mouth       1.00      0.96      0.98        28
+                                 central atherosclerosis       1.00      0.75      0.86         4
+                central retinal artery or vein occlusion       1.00      0.64      0.78        14
+                                          cerebral edema       0.90      0.86      0.88        21
+                                          cerebral palsy       0.93      0.96      0.95        28
+                                         cervical cancer       1.00      0.89      0.94        19
+                                       cervical disorder       0.50      0.11      0.18         9
+                                              cervicitis       0.80      0.84      0.82        77
+                                               chalazion       0.93      0.93      0.93       136
+                                              chickenpox       1.00      0.81      0.89        21
+                                               chlamydia       0.60      0.85      0.70        33
+                                           cholecystitis       0.95      0.73      0.83       241
+                                     choledocholithiasis       0.95      0.89      0.92        88
+                                           cholesteatoma       1.00      0.50      0.67         6
+                           chondromalacia of the patella       0.75      0.82      0.78        11
+                                         chorioretinitis       1.00      0.67      0.80        15
+                                       chronic back pain       0.93      0.93      0.93       180
+                                    chronic constipation       0.91      0.82      0.86       183
+                                        chronic glaucoma       0.84      0.68      0.75       134
+chronic inflammatory demyelinating polyneuropathy (cidp)       0.00      0.00      0.00         4
+                                  chronic kidney disease       0.00      0.00      0.00         2
+                                       chronic knee pain       0.87      0.67      0.75        30
+            chronic obstructive pulmonary disease (copd)       0.67      0.71      0.69       181
+                                    chronic otitis media       0.87      0.88      0.88       134
+                                   chronic pain disorder       0.83      0.85      0.84       135
+                                    chronic pancreatitis       0.97      0.97      0.97        59
+                                 chronic rheumatic fever       0.86      0.88      0.87        34
+                                       chronic sinusitis       0.85      0.82      0.83       131
+                                               cirrhosis       0.98      0.95      0.97        66
+                         coagulation (bleeding) disorder       1.00      0.89      0.94        18
+                                               cold sore       0.97      0.97      0.97        38
+                                           colonic polyp       0.97      0.97      0.97        68
+                                       colorectal cancer       0.00      0.00      0.00         3
+                                             common cold       0.88      0.87      0.87       181
+                          complex regional pain syndrome       0.84      0.85      0.85       243
+                                              concussion       0.96      0.98      0.97       238
+                                        conduct disorder       0.88      0.90      0.89       136
+                                 conductive hearing loss       0.86      0.91      0.88       120
+                                 congenital heart defect       1.00      0.86      0.92         7
+                        congenital malformation syndrome       1.00      1.00      1.00         3
+                                          conjunctivitis       0.84      0.84      0.84       182
+                           conjunctivitis due to allergy       0.88      0.93      0.90       243
+                          conjunctivitis due to bacteria       0.70      0.84      0.76        31
+                             conjunctivitis due to virus       0.69      0.82      0.74       136
+                              connective tissue disorder       0.00      0.00      0.00         1
+                                      contact dermatitis       0.79      0.79      0.79       182
+                                     conversion disorder       1.00      0.50      0.67         4
+                                        cornea infection       0.94      0.75      0.84       181
+                                        corneal abrasion       0.56      0.71      0.63       100
+                                        corneal disorder       0.60      0.61      0.61       135
+                                coronary atherosclerosis       1.00      0.73      0.84        22
+                                     cranial nerve palsy       0.93      0.99      0.96        68
+                                           crohn disease       0.85      0.84      0.85        75
+                                                   croup       0.84      0.85      0.84       181
+                                         crushing injury       0.73      0.85      0.79        13
+                                          cryptococcosis       1.00      1.00      1.00         2
+                                          cryptorchidism       0.00      0.00      0.00         1
+                                        cushing syndrome       0.00      0.00      0.00         2
+                                      cyst of the eyelid       1.00      1.00      1.00         4
+                                         cystic fibrosis       0.00      0.00      0.00         3
+                                           cysticercosis       0.67      0.86      0.75         7
+                                                cystitis       0.81      0.75      0.78       244
+                                     de quervain disease       0.93      0.72      0.81        18
+                                         decubitus ulcer       0.00      0.00      0.00         2
+                              deep vein thrombosis (dvt)       0.94      0.96      0.95        48
+                               degenerative disc disease       0.61      0.74      0.67       182
+                                                delirium       0.88      0.90      0.89       120
+                                                dementia       0.87      0.90      0.88        68
+                                           dental caries       0.92      0.90      0.91       237
+                                              depression       0.83      0.69      0.75       182
+                          dermatitis due to sun exposure       0.99      0.81      0.89        89
+                                developmental disability       0.96      0.93      0.95       182
+                                   deviated nasal septum       0.97      0.89      0.93       121
+                                      diabetes insipidus       0.00      0.00      0.00         2
+                                   diabetic ketoacidosis       0.89      0.96      0.92       135
+                          diabetic peripheral neuropathy       0.96      0.98      0.97        90
+                                    diabetic retinopathy       0.55      0.67      0.61        91
+                                             diaper rash       0.98      0.97      0.97       179
+                                dislocation of the ankle       1.00      1.00      1.00         4
+                                dislocation of the elbow       1.00      0.88      0.94        17
+                               dislocation of the finger       0.00      0.00      0.00         4
+                                 dislocation of the foot       1.00      0.75      0.86         4
+                                  dislocation of the hip       0.00      0.00      0.00         1
+                                 dislocation of the knee       0.00      0.00      0.00         1
+                             dislocation of the shoulder       1.00      0.85      0.92        13
+                             dislocation of the vertebra       1.00      1.00      1.00         8
+                                dislocation of the wrist       0.90      1.00      0.95         9
+                                   dissociative disorder       1.00      0.89      0.94        18
+                                          diverticulitis       0.80      0.88      0.84       243
+                                          diverticulosis       0.84      0.93      0.88       135
+                                           down syndrome       0.88      0.88      0.88        25
+                                              drug abuse       0.94      0.88      0.91       121
+                               drug abuse (barbiturates)       1.00      0.25      0.40        12
+                                    drug abuse (cocaine)       0.75      0.79      0.77        56
+                            drug abuse (methamphetamine)       0.86      0.91      0.88        66
+                                    drug abuse (opioids)       0.78      0.74      0.76       121
+                        drug poisoning due to medication       0.97      0.93      0.95        42
+                                           drug reaction       0.93      1.00      0.96       182
+                                         drug withdrawal       0.89      0.92      0.90        51
+                                dry eye of unknown cause       0.93      0.45      0.61       172
+                                        dumping syndrome       0.00      0.00      0.00         1
+                                             dyshidrosis       1.00      0.88      0.94        17
+                                      dysthymic disorder       0.89      0.87      0.88       100
+                                         ear drum damage       0.93      0.90      0.92       181
+                                       ear wax impaction       0.85      0.85      0.85       136
+                                         eating disorder       0.96      0.99      0.98        99
+                                       ectopic pregnancy       0.75      0.90      0.82        68
+                                               ectropion       0.00      0.00      0.00         8
+                                                  eczema       0.75      0.78      0.76       241
+                                         edward syndrome       0.00      0.00      0.00         1
+                                               emphysema       0.62      0.83      0.71         6
+                                                 empyema       0.00      0.00      0.00         1
+                                            encephalitis       0.94      0.79      0.86        19
+                                            endocarditis       0.60      0.35      0.44        17
+                                      endometrial cancer       0.94      0.94      0.94        18
+                                 endometrial hyperplasia       1.00      0.90      0.95        10
+                                           endometriosis       0.97      0.97      0.97        76
+                                         endophthalmitis       1.00      0.83      0.91        12
+                 envenomation from spider or animal bite       0.99      0.95      0.97        91
+                                              ependymoma       1.00      1.00      1.00         4
+                                            epididymitis       0.94      0.99      0.97       102
+                                     epidural hemorrhage       0.00      0.00      0.00         2
+                                                epilepsy       1.00      0.73      0.85        15
+                                    erectile dysfunction       0.88      0.83      0.85       121
+                                     erythema multiforme       1.00      0.89      0.94         9
+                                       esophageal cancer       1.00      0.93      0.97        15
+                                             esophagitis       0.92      0.95      0.93       243
+                                        essential tremor       0.97      0.92      0.95        39
+              eustachian tube dysfunction (ear disorder)       0.93      0.92      0.93       182
+                          extrapyramidal effect of drugs       1.00      1.00      1.00        17
+                                  eye alignment disorder       0.99      0.97      0.98        91
+                                     factitious disorder       0.00      0.00      0.00         3
+                              female genitalia infection       1.00      0.97      0.99        39
+                     female infertility of unknown cause       1.00      0.67      0.80         6
+                                  fetal alcohol syndrome       0.00      0.00      0.00         1
+                                            fibroadenoma       0.83      1.00      0.90        19
+                              fibrocystic breast disease       0.00      0.00      0.00         3
+                                            fibromyalgia       0.75      0.83      0.79       131
+                                               flat feet       1.00      0.71      0.83         7
+                                                floaters       0.00      0.00      0.00         5
+                                                     flu       0.71      0.87      0.78       136
+                                          fluid overload       0.83      0.88      0.85        65
+                                       folate deficiency       1.00      0.78      0.88         9
+                                            food allergy       0.94      0.93      0.94        91
+                                 foreign body in the ear       1.00      0.20      0.33         5
+                                 foreign body in the eye       0.56      0.73      0.64        56
+              foreign body in the gastrointestinal tract       1.00      0.96      0.98        25
+                              foreign body in the throat       0.91      0.97      0.94        31
+                              foreign body in the vagina       1.00      0.75      0.86         4
+                                   fracture of the ankle       1.00      0.14      0.25         7
+                                     fracture of the arm       0.93      0.86      0.89        87
+                            fracture of the facial bones       0.99      0.97      0.98        90
+                                  fracture of the finger       0.00      0.00      0.00         2
+                                    fracture of the foot       0.00      0.00      0.00         3
+                                    fracture of the hand       0.78      0.64      0.70        22
+                                     fracture of the jaw       0.86      0.80      0.83        15
+                                     fracture of the leg       0.90      0.93      0.91       136
+                                    fracture of the neck       0.80      0.50      0.62         8
+                                 fracture of the patella       1.00      1.00      1.00        16
+                                  fracture of the pelvis       0.97      0.81      0.88        37
+                                     fracture of the rib       0.97      0.99      0.98       176
+                                fracture of the shoulder       0.96      0.84      0.90        32
+                                   fracture of the skull       0.80      0.62      0.70        13
+                                fracture of the vertebra       1.00      0.98      0.99        54
+                                        friedrich ataxia       0.00      0.00      0.00         1
+                                               frostbite       1.00      1.00      1.00         2
+                            fungal infection of the hair       0.90      0.74      0.81       242
+                            fungal infection of the skin       0.75      0.72      0.73       137
+                                  g6pd enzyme deficiency       0.00      0.00      0.00         1
+                           galactorrhea of unknown cause       1.00      0.50      0.67         2
+                                               gallstone       0.68      0.83      0.75       181
+                                           ganglion cyst       0.98      0.99      0.99       135
+                                               gastritis       0.74      0.92      0.82       136
+                                    gastroduodenal ulcer       0.88      0.88      0.88       137
+                  gastroesophageal reflux disease (gerd)       0.84      0.89      0.86        90
+                             gastrointestinal hemorrhage       0.91      0.91      0.91       243
+                                           gastroparesis       0.49      0.50      0.49        36
+                                          genital herpes       0.98      0.98      0.98        48
+                                    gestational diabetes       1.00      0.80      0.89         5
+                                                glaucoma       0.70      0.80      0.74       100
+                               glucocorticoid deficiency       1.00      0.67      0.80         3
+                                                  goiter       0.93      0.87      0.90        15
+                                               gonorrhea       1.00      0.92      0.96        26
+                                                    gout       0.92      0.94      0.93       242
+                                     granuloma inguinale       0.00      0.00      0.00         2
+                                          graves disease       0.96      0.94      0.95        50
+                                 guillain barre syndrome       1.00      0.82      0.90        11
+                                             gum disease       0.87      0.75      0.81       179
+                                            gynecomastia       1.00      0.94      0.97        17
+                                              hammer toe       0.00      0.00      0.00         2
+                                    head and neck cancer       0.98      1.00      0.99        65
+                                             head injury       0.93      0.85      0.89        33
+                          headache after lumbar puncture       0.93      0.79      0.86        34
+                                            heart attack       0.97      0.95      0.96       181
+                                             heart block       0.81      0.89      0.85       121
+                                         heart contusion       0.00      0.00      0.00         2
+                                           heart failure       0.97      0.92      0.94       181
+                                         heat exhaustion       0.73      0.89      0.80        53
+                                              hemangioma       0.73      0.89      0.80       135
+                                            hemarthrosis       0.00      0.00      0.00         2
+                                                hematoma       1.00      0.75      0.86        12
+                                              hemiplegia       0.95      0.92      0.93       101
+                                         hemochromatosis       0.00      0.00      0.00         1
+                                        hemolytic anemia       1.00      0.80      0.89         5
+                                              hemophilia       1.00      0.25      0.40         4
+                                             hemorrhoids       0.94      0.88      0.91       182
+                                  hepatic encephalopathy       1.00      0.89      0.94         9
+                                hepatitis due to a toxin       0.93      0.97      0.95        71
+                                          herniated disk       0.73      0.80      0.76       182
+                                              herpangina       0.93      0.91      0.92        90
+                                           hiatal hernia       0.94      0.87      0.90       181
+                                hidradenitis suppurativa       0.96      0.93      0.95        28
+                                    hirschsprung disease       0.60      0.75      0.67         4
+                                               hirsutism       0.83      0.83      0.83         6
+                                          histoplasmosis       0.00      0.00      0.00         1
+                                        hormone disorder       1.00      0.91      0.95        11
+                                                     hpv       0.00      0.00      0.00         3
+                                       hydatidiform mole       1.00      0.67      0.80        12
+                               hydrocele of the testicle       0.86      0.80      0.83        45
+                                           hydrocephalus       0.94      0.55      0.69        31
+                                          hydronephrosis       0.86      0.81      0.83        68
+                                           hypercalcemia       0.00      0.00      0.00         2
+                                    hypercholesterolemia       0.00      0.00      0.00         2
+                                  hyperemesis gravidarum       0.91      0.95      0.93       182
+                                           hyperhidrosis       1.00      0.40      0.57         5
+                                            hyperkalemia       0.87      0.95      0.91       131
+                                           hypernatremia       0.75      0.80      0.77        15
+                                               hyperopia       0.94      0.73      0.82        22
+                         hyperosmotic hyperketotic state       0.00      0.00      0.00         1
+                               hypertension of pregnancy       0.83      0.91      0.87        11
+                              hypertensive heart disease       0.95      0.97      0.96       180
+          hypertrophic obstructive cardiomyopathy (hocm)       0.00      0.00      0.00         1
+                                            hypocalcemia       1.00      0.89      0.94         9
+                                            hypoglycemia       0.95      0.95      0.95       243
+                                             hypokalemia       0.85      0.80      0.82        96
+                                            hyponatremia       0.80      0.95      0.87        99
+                                             hypothermia       0.00      0.00      0.00         3
+                                          hypothyroidism       0.94      1.00      0.97        15
+                                             hypovolemia       0.87      0.94      0.90        85
+                      idiopathic absence of menstruation       0.99      0.93      0.96        99
+                       idiopathic excessive menstruation       0.85      0.84      0.85       181
+                      idiopathic infrequent menstruation       0.67      0.60      0.63        10
+                    idiopathic irregular menstrual cycle       0.81      0.85      0.83       182
+                        idiopathic nonmenstrual bleeding       0.90      0.95      0.93        20
+                         idiopathic painful menstruation       0.90      0.88      0.89       181
+                                                   ileus       0.71      0.84      0.77        90
+                                                impetigo       0.89      0.91      0.90       137
+                                impulse control disorder       0.69      0.78      0.73        67
+                                             indigestion       0.91      0.87      0.89        89
+                                        induced abortion       0.96      0.81      0.88        57
+                                 infection of open wound       0.78      1.00      0.88         7
+                              infectious gastroenteritis       0.77      0.68      0.72       242
+                                        ingrown toe nail       0.96      0.94      0.95       121
+                                         inguinal hernia       0.91      0.94      0.93        80
+                                     injury of the ankle       0.94      0.89      0.91        36
+                                injury to internal organ       0.88      0.81      0.84        26
+                                   injury to the abdomen       0.91      0.77      0.83        13
+                                       injury to the arm       0.96      0.91      0.93       242
+                                      injury to the face       0.96      0.97      0.96        91
+                                    injury to the finger       0.00      0.00      0.00         1
+                                      injury to the hand       0.77      0.92      0.84        25
+                                       injury to the hip       0.00      0.00      0.00         3
+                                      injury to the knee       1.00      0.36      0.53        11
+                                       injury to the leg       0.94      0.97      0.95       241
+                                  injury to the shoulder       0.91      0.94      0.92       102
+                               injury to the spinal cord       0.86      1.00      0.92         6
+                                     injury to the trunk       0.98      0.97      0.97       181
+                                             insect bite       0.92      0.95      0.93       134
+                                        insulin overdose       0.00      0.00      0.00         2
+                               interstitial lung disease       0.72      0.87      0.79       102
+                             intertrigo (skin condition)       0.52      0.62      0.57        21
+                                       intestinal cancer       1.00      0.90      0.95        10
+                                      intestinal disease       0.71      0.87      0.78        77
+                                intestinal malabsorption       0.94      0.91      0.92        32
+                                  intestinal obstruction       0.93      0.87      0.90        89
+                                intracerebral hemorrhage       0.87      0.95      0.91       121
+                                    intracranial abscess       0.00      0.00      0.00         2
+                                 intracranial hemorrhage       0.65      0.94      0.77        64
+                                         intussusception       0.00      0.00      0.00         1
+                                           iridocyclitis       0.70      0.87      0.77        99
+                                  iron deficiency anemia       0.99      0.98      0.98       137
+                                irritable bowel syndrome       0.97      0.93      0.95       102
+                                   ischemia of the bowel       0.66      0.91      0.76        57
+                                  ischemic heart disease       0.94      0.94      0.94       177
+                                itching of unknown cause       0.99      0.92      0.95       101
+                                            jaw disorder       0.98      0.97      0.98        67
+                                          joint effusion       0.97      0.94      0.96        90
+                           juvenile rheumatoid arthritis       1.00      0.43      0.60         7
+                                           kidney cancer       1.00      0.88      0.93        16
+         kidney disease due to longstanding hypertension       1.00      0.67      0.80         3
+                                          kidney failure       1.00      0.91      0.95        56
+                                            kidney stone       0.69      0.68      0.69       181
+                          knee ligament or meniscus tear       0.94      0.81      0.87        21
+                                           labyrinthitis       0.90      0.98      0.93       131
+                                     lactose intolerance       0.96      1.00      0.98        27
+                                              laryngitis       0.95      0.93      0.94       136
+                    lateral epicondylitis (tennis elbow)       0.92      0.81      0.86        67
+                                                leukemia       0.00      0.00      0.00         2
+                                      lewy body dementia       0.57      0.81      0.67        16
+                                                    lice       1.00      1.00      1.00        13
+                                           lichen planus       1.00      0.50      0.67         2
+                                          lichen simplex       1.00      0.83      0.91        12
+                                                  lipoma       0.95      0.96      0.95       137
+                                            liver cancer       0.69      0.90      0.78        10
+                                           liver disease       0.98      0.94      0.96       242
+                                                 lumbago       1.00      0.77      0.87        31
+                                             lung cancer       1.00      0.50      0.67        10
+                                          lung contusion       0.00      0.00      0.00         3
+                                            lyme disease       0.95      0.98      0.96        42
+                                           lymphadenitis       0.87      0.99      0.93        91
+                                              lymphedema       0.93      0.95      0.94       101
+                                lymphogranuloma venereum       0.67      0.50      0.57         4
+                                                lymphoma       1.00      0.96      0.98        27
+                                    macular degeneration       0.90      0.68      0.77       182
+                                    magnesium deficiency       0.75      0.43      0.55         7
+                                                 malaria       1.00      0.67      0.80         3
+                                male genitalia infection       1.00      0.93      0.96        28
+                                  malignant hypertension       0.92      0.92      0.92        36
+                                         marijuana abuse       0.83      0.72      0.77       242
+                                              mastectomy       1.00      1.00      1.00         3
+                                             mastoiditis       0.73      0.93      0.82        29
+                                     meckel diverticulum       0.00      0.00      0.00         1
+                                                melanoma       1.00      0.91      0.95        54
+                                         meniere disease       0.84      0.91      0.87        56
+                                              meningioma       0.00      0.00      0.00         4
+                                              meningitis       0.67      0.92      0.77        59
+                                               menopause       1.00      1.00      1.00        15
+                                      metabolic disorder       1.00      1.00      1.00         7
+                                       metastatic cancer       1.00      0.60      0.75         5
+                                                migraine       0.84      0.98      0.91        44
+                                         missed abortion       0.88      0.84      0.86        75
+                                    mitral valve disease       0.86      0.95      0.90       101
+                                           mittelschmerz       1.00      0.82      0.90        11
+                                   molluscum contagiosum       0.69      0.79      0.74       102
+                                            mononeuritis       0.85      0.91      0.88       135
+                                           mononucleosis       0.95      0.80      0.87        66
+                                        moyamoya disease       0.67      1.00      0.80         2
+                                               mucositis       1.00      0.83      0.91        58
+                                        multiple myeloma       1.00      1.00      1.00        10
+                                      multiple sclerosis       0.86      0.92      0.89       182
+                                                   mumps       1.00      0.89      0.94         9
+                                            muscle spasm       0.85      0.86      0.86       136
+                                      muscular dystrophy       1.00      0.78      0.88         9
+                                       myasthenia gravis       1.00      1.00      1.00        27
+                                myelodysplastic syndrome       0.00      0.00      0.00         1
+                                               myoclonus       1.00      0.50      0.67         2
+                                                  myopia       0.84      0.90      0.87        90
+                                                myositis       0.90      0.70      0.79        27
+                                              narcolepsy       0.97      0.95      0.96        37
+                                             nasal polyp       0.92      0.94      0.93        71
+                                       neonatal jaundice       1.00      0.71      0.83         7
+                     nerve impingement near the shoulder       0.86      0.86      0.86        56
+                                               neuralgia       0.58      0.66      0.62       137
+                                       neurofibromatosis       1.00      0.83      0.91         6
+                                 neuropathy due to drugs       0.86      0.75      0.80         8
+                                                neurosis       0.87      0.89      0.88       180
+                       nonalcoholic liver disease (nash)       1.00      0.92      0.96        12
+                           noninfectious gastroenteritis       0.70      0.73      0.71       241
+                           normal pressure hydrocephalus       1.00      0.80      0.89         5
+                                           nose disorder       0.89      0.87      0.88       244
+                                                 obesity       0.00      0.00      0.00         1
+                     obsessive compulsive disorder (ocd)       1.00      0.90      0.95        91
+                           obstructive sleep apnea (osa)       0.97      0.98      0.98       239
+                                              omphalitis       1.00      1.00      1.00         1
+                                           onychomycosis       0.81      0.88      0.84       101
+                       open wound from surgical incision       0.00      0.00      0.00         1
+                                   open wound of the arm       0.00      0.00      0.00         2
+                                  open wound of the back       0.00      0.00      0.00         2
+                                   open wound of the ear       1.00      0.86      0.92         7
+                                   open wound of the eye       0.00      0.00      0.00         6
+                                  open wound of the face       0.00      0.00      0.00         1
+                                open wound of the finger       0.00      0.00      0.00         1
+                                  open wound of the foot       0.00      0.00      0.00         5
+                                  open wound of the hand       0.00      0.00      0.00         1
+                                   open wound of the lip       1.00      0.20      0.33         5
+                                 open wound of the mouth       0.94      0.84      0.89        19
+                                  open wound of the neck       1.00      0.67      0.80         6
+                                  open wound of the nose       0.00      0.00      0.00         2
+                              open wound of the shoulder       0.00      0.00      0.00         1
+                                   oppositional disorder       0.98      0.93      0.95        86
+                                          optic neuritis       0.00      0.00      0.00         2
+                                        oral leukoplakia       0.00      0.00      0.00         1
+                                     oral mucosal lesion       0.84      0.96      0.90       121
+                           oral thrush (yeast infection)       0.92      0.99      0.95       136
+                                      orbital cellulitis       0.94      0.97      0.96        34
+                                 orthostatic hypotension       0.96      0.86      0.91        57
+                                          osteoarthritis       0.90      0.95      0.92       179
+                                          osteochondroma       0.93      0.93      0.93        42
+                                         osteochondrosis       0.74      0.91      0.82        22
+                                           osteomyelitis       0.95      0.97      0.96        38
+                                            osteoporosis       1.00      0.93      0.97        76
+                          otitis externa (swimmer's ear)       0.93      0.88      0.91       181
+                                            otitis media       0.82      0.84      0.83       182
+                                            otosclerosis       0.25      0.25      0.25         4
+                                          ovarian cancer       0.00      0.00      0.00         4
+                                            ovarian cyst       0.75      0.80      0.78       100
+                                         ovarian torsion       1.00      0.85      0.92        13
+                                   overflow incontinence       0.93      0.88      0.90        42
+                                 pain after an operation       0.78      0.96      0.86       182
+                        pain disorder affecting the neck       0.95      0.96      0.95        77
+                                       pancreatic cancer       0.95      0.98      0.96        41
+                                            panic attack       0.79      0.97      0.87        38
+                                          panic disorder       0.87      0.93      0.90       182
+                                       parasitic disease       1.00      1.00      1.00        15
+                                     parathyroid adenoma       1.00      0.75      0.86         4
+                                       parkinson disease       0.98      0.92      0.95       103
+                                              paronychia       0.99      0.97      0.98        88
+                 paroxysmal supraventricular tachycardia       0.93      0.83      0.87        75
+                      paroxysmal ventricular tachycardia       0.77      0.74      0.76       134
+                                          pelvic fistula       0.00      0.00      0.00         1
+                             pelvic inflammatory disease       0.83      0.84      0.84       180
+                                   pelvic organ prolapse       0.93      0.94      0.94        88
+                                               pemphigus       0.00      0.00      0.00         1
+                                            pericarditis       0.90      0.90      0.90        29
+                             peripheral arterial disease       0.90      0.78      0.84        23
+                            peripheral arterial embolism       0.89      0.89      0.89        27
+                               peripheral nerve disorder       0.92      0.91      0.92       243
+                                    perirectal infection       0.93      0.93      0.93        27
+                                             peritonitis       0.92      0.93      0.93        76
+                                   peritonsillar abscess       0.96      0.94      0.95        49
+                    persistent vomiting of unknown cause       0.78      0.84      0.81        37
+                                    personality disorder       0.53      0.59      0.56       182
+                                        peyronie disease       1.00      1.00      1.00         4
+                                             pharyngitis       0.00      0.00      0.00         4
+                                                phimosis       1.00      0.58      0.74        12
+                                          pilonidal cyst       0.97      0.96      0.96        68
+                                              pinguecula       0.00      0.00      0.00         1
+                                       pinworm infection       0.93      0.82      0.88        17
+                                       pituitary adenoma       1.00      1.00      1.00         6
+                                      pituitary disorder       1.00      1.00      1.00         6
+                                        pityriasis rosea       0.75      0.86      0.80        14
+                                         placenta previa       0.00      0.00      0.00         2
+                                     placental abruption       1.00      1.00      1.00         3
+                                       plantar fasciitis       0.97      0.97      0.97        40
+                                        pleural effusion       0.82      0.92      0.87       121
+                                          pneumoconiosis       0.00      0.00      0.00         3
+                                               pneumonia       0.74      0.76      0.75       242
+                                            pneumothorax       0.93      0.85      0.88        59
+                             poisoning due to analgesics       1.00      0.92      0.96        13
+                        poisoning due to anticonvulsants       1.00      0.75      0.86         8
+                        poisoning due to antidepressants       0.67      0.67      0.67         6
+                      poisoning due to antihypertensives       0.00      0.00      0.00         3
+                    poisoning due to antimicrobial drugs       1.00      0.95      0.97        19
+                         poisoning due to antipsychotics       0.00      0.00      0.00         2
+                        poisoning due to ethylene glycol       0.00      0.00      0.00         5
+                                    poisoning due to gas       0.80      0.90      0.84        39
+                                poisoning due to opioids       0.00      0.00      0.00         2
+                              poisoning due to sedatives       0.59      0.92      0.72        25
+                               polycystic kidney disease       0.97      0.86      0.91        37
+                      polycystic ovarian syndrome (pcos)       0.98      0.98      0.98        54
+                                       polycythemia vera       1.00      0.90      0.95        10
+                                  polymyalgia rheumatica       0.93      1.00      0.96        27
+                   post-traumatic stress disorder (ptsd)       0.43      0.55      0.48       121
+                                 postoperative infection       0.95      0.95      0.95        22
+                                   postpartum depression       0.85      0.95      0.90        99
+                                            preeclampsia       1.00      0.88      0.94        43
+                                               pregnancy       0.00      0.00      0.00         3
+                    premature atrial contractions (pacs)       0.78      0.82      0.80        44
+                               premature ovarian failure       1.00      0.80      0.89        10
+                  premature rupture of amniotic membrane       0.00      0.00      0.00         2
+               premature ventricular contractions (pvcs)       0.97      0.92      0.94        65
+                           premenstrual tension syndrome       1.00      0.93      0.96        27
+                                            presbyacusis       0.54      0.64      0.58        11
+                                              presbyopia       0.85      0.81      0.83        42
+                                                priapism       0.00      0.00      0.00         1
+                                primary immunodeficiency       1.00      0.86      0.92         7
+                                        primary insomnia       0.87      0.89      0.88        38
+                                  primary kidney disease       1.00      0.86      0.92         7
+                                problem during pregnancy       0.83      0.95      0.89       183
+                                         prostate cancer       0.59      0.48      0.53        27
+                                             prostatitis       0.84      0.93      0.88       136
+                                      protein deficiency       1.00      0.85      0.92        13
+                                pseudohypoparathyroidism       0.00      0.00      0.00         2
+                                     pseudotumor cerebri       1.00      0.50      0.67        10
+                                               psoriasis       0.73      0.77      0.75       182
+                                   psychosexual disorder       0.92      0.97      0.94        34
+                                      psychotic disorder       0.70      0.58      0.63       180
+                                               pterygium       0.71      0.86      0.78        43
+                                    pulmonary congestion       0.89      0.90      0.89        99
+                                      pulmonary embolism       0.94      0.96      0.95       176
+                                  pulmonary eosinophilia       0.84      0.97      0.90        37
+                                      pulmonary fibrosis       0.58      0.62      0.60        24
+                                  pulmonary hypertension       0.97      0.96      0.96        89
+                                  pulmonic valve disease       0.00      0.00      0.00         2
+                                          pyelonephritis       0.62      0.70      0.66       181
+                                        pyloric stenosis       1.00      0.33      0.50         3
+                                 pyogenic skin infection       0.91      0.95      0.93       182
+                                         raynaud disease       0.00      0.00      0.00         2
+                                      reactive arthritis       0.00      0.00      0.00         2
+                                         rectal disorder       0.91      0.93      0.92       180
+                                   restless leg syndrome       0.89      0.98      0.93        57
+                                      retinal detachment       0.44      0.70      0.54        56
+                  retinopathy due to high blood pressure       1.00      0.86      0.92        28
+                                          rhabdomyolysis       0.00      0.00      0.00         3
+                                    rheumatoid arthritis       0.92      0.98      0.95       136
+                                                 rosacea       0.75      0.91      0.82       136
+                                     rotator cuff injury       0.81      0.77      0.79        22
+                                 salivary gland disorder       0.90      0.75      0.82        12
+                                             sarcoidosis       0.93      0.98      0.96        66
+                                                 scabies       1.00      0.97      0.99        37
+                                                    scar       0.57      0.82      0.67        51
+                                           scarlet fever       1.00      0.83      0.91        18
+                                           schizophrenia       0.67      0.48      0.56       178
+                                                sciatica       0.96      0.85      0.90       134
+                                               scleritis       0.88      0.78      0.82         9
+                                             scleroderma       0.98      0.82      0.90        68
+                                               scoliosis       1.00      0.97      0.99        34
+                                                  scurvy       0.00      0.00      0.00         1
+                          seasonal allergies (hay fever)       0.97      0.94      0.95       182
+                                          sebaceous cyst       0.96      0.91      0.93       183
+                                   seborrheic dermatitis       0.94      0.79      0.86       176
+                                    seborrheic keratosis       0.52      0.55      0.54       174
+                              sensorineural hearing loss       0.94      0.85      0.89       136
+                                                  sepsis       0.91      0.93      0.92       182
+                                        septic arthritis       0.67      0.67      0.67        12
+                                shingles (herpes zoster)       0.99      0.96      0.97        76
+                                           sialoadenitis       0.96      0.93      0.95       102
+                                     sick sinus syndrome       0.48      0.38      0.42        32
+                                      sickle cell anemia       1.00      0.93      0.97        45
+                                      sickle cell crisis       0.83      0.92      0.87       183
+                                       sinus bradycardia       0.77      0.79      0.78       182
+                                        sjogren syndrome       0.78      1.00      0.88        18
+                                             skin cancer       0.68      0.58      0.63       132
+                                           skin disorder       0.42      0.64      0.51       135
+                              skin pigmentation disorder       0.43      0.55      0.49       182
+                                              skin polyp       0.47      0.31      0.38       179
+                            smoking or tobacco addiction       0.99      0.99      0.99       177
+                                           social phobia       0.72      0.74      0.73       102
+                                     soft tissue sarcoma       0.90      0.82      0.86        34
+                                   somatization disorder       0.94      0.94      0.94        16
+                                            spermatocele       0.89      1.00      0.94        16
+                                           spherocytosis       0.00      0.00      0.00         1
+                                            spina bifida       1.00      0.81      0.90        16
+                                         spinal stenosis       0.77      0.68      0.72       241
+                                  spinocerebellar ataxia       0.00      0.00      0.00         2
+                                             spondylitis       0.90      0.93      0.92        90
+                                       spondylolisthesis       0.78      0.80      0.79       135
+                                             spondylosis       0.76      0.69      0.72       243
+                                    spontaneous abortion       0.87      0.79      0.83       242
+                                          sporotrichosis       0.00      0.00      0.00         1
+                                        sprain or strain       0.83      0.90      0.86       242
+                               stenosis of the tear duct       0.87      1.00      0.93        20
+                                          stomach cancer       0.93      0.81      0.86        31
+                                            strep throat       0.88      0.95      0.91       242
+                                     stress incontinence       0.98      0.92      0.95        51
+                              stricture of the esophagus       1.00      0.88      0.94        17
+                                                  stroke       0.85      0.87      0.86       128
+                                                    stye       0.97      0.96      0.97       182
+                                    subacute thyroiditis       1.00      0.50      0.67         6
+                                 subarachnoid hemorrhage       0.96      0.89      0.93        28
+                              subconjunctival hemorrhage       0.69      0.88      0.77        50
+                                     subdural hemorrhage       0.96      0.79      0.86        28
+                       substance-related mental disorder       0.76      0.65      0.70        43
+      syndrome of inappropriate secretion of adh (siadh)       0.00      0.00      0.00         1
+                                                syphilis       1.00      1.00      1.00         6
+                                           syringomyelia       0.00      0.00      0.00         3
+                      systemic lupus erythematosis (sle)       1.00      1.00      1.00        32
+                                       teething syndrome       0.90      0.90      0.90        88
+                      temporary or benign blood in urine       0.82      0.63      0.71       179
+                        temporomandibular joint disorder       0.87      0.87      0.87        68
+                                              tendinitis       0.87      0.90      0.88       136
+                                        tension headache       0.98      0.98      0.98        56
+                                       testicular cancer       1.00      1.00      1.00         2
+                                     testicular disorder       1.00      1.00      1.00        12
+                                      testicular torsion       0.94      0.83      0.88        18
+                                thoracic aortic aneurysm       0.91      0.91      0.91        34
+                                thoracic outlet syndrome       1.00      0.94      0.97        36
+                                    threatened pregnancy       0.75      0.85      0.79       181
+                                        thrombocytopenia       1.00      0.96      0.98        25
+                                        thrombophlebitis       0.96      0.99      0.97        90
+                                          thyroid cancer       0.00      0.00      0.00         2
+                                         thyroid disease       1.00      0.67      0.80         3
+                                          thyroid nodule       0.95      0.98      0.97        43
+                                 tic (movement) disorder       0.89      1.00      0.94        17
+                                         tietze syndrome       0.83      0.93      0.87        67
+                               tinnitus of unknown cause       0.87      0.82      0.84        56
+                                   tonsillar hypertrophy       0.97      0.91      0.94        68
+                                             tonsillitis       0.99      0.97      0.98        89
+                                           tooth abscess       0.86      0.93      0.89       134
+                                          tooth disorder       0.74      0.85      0.79       134
+                                             torticollis       1.00      0.95      0.97        56
+                                       tourette syndrome       1.00      1.00      1.00         6
+                               toxic multinodular goiter       1.00      0.88      0.93        16
+                                           toxoplasmosis       1.00      1.00      1.00         2
+                                              tracheitis       0.70      0.82      0.76        38
+                               transient ischemic attack       0.85      0.94      0.89       131
+                                              trichiasis       1.00      1.00      1.00         6
+                                             trichinosis       0.00      0.00      0.00         2
+                                   trichomonas infection       0.90      0.81      0.85        68
+                                 tricuspid valve disease       1.00      0.50      0.67         2
+                                    trigeminal neuralgia       0.87      0.97      0.92        40
+                        trigger finger (finger disorder)       0.93      0.82      0.88        17
+                                            tuberculosis       1.00      0.40      0.57         5
+                                      tuberous sclerosis       0.00      0.00      0.00         1
+                                      ulcerative colitis       1.00      0.83      0.91        75
+                                       urethral disorder       0.92      0.92      0.92        63
+                                      urethral stricture       0.96      0.95      0.95        56
+                                         urethral valves       1.00      0.71      0.83         7
+                                              urethritis       0.95      0.87      0.91        91
+                                       urge incontinence       0.87      0.94      0.90        99
+                                 urinary tract infection       0.72      0.85      0.78       182
+                               urinary tract obstruction       0.97      0.82      0.89       137
+                                           uterine atony       1.00      0.91      0.95        44
+                                          uterine cancer       0.00      0.00      0.00         1
+                                        uterine fibroids       0.84      0.77      0.80        90
+                                                 uveitis       1.00      1.00      1.00         4
+                                        vacterl syndrome       0.00      0.00      0.00         2
+                                            vaginal cyst       0.84      0.80      0.82       243
+                                 vaginal yeast infection       0.89      0.89      0.89       122
+                                              vaginismus       0.71      0.33      0.45        15
+                                               vaginitis       0.89      0.84      0.86       182
+                                            valley fever       0.00      0.00      0.00         2
+                             varicocele of the testicles       0.99      0.99      0.99       136
+                                          varicose veins       0.85      0.74      0.79        23
+                                              vasculitis       1.00      0.90      0.95        60
+                                    venous insufficiency       0.97      0.96      0.96        67
+                           vertebrobasilar insufficiency       1.00      0.20      0.33         5
+                                   vesicoureteral reflux       0.00      0.00      0.00         2
+                                          viral exanthem       0.81      0.93      0.86       120
+                                         viral hepatitis       1.00      0.71      0.83         7
+                                             viral warts       0.84      0.75      0.79        91
+                                    vitamin a deficiency       0.00      0.00      0.00         1
+                                  vitamin b12 deficiency       1.00      0.94      0.97        16
+                                    vitamin d deficiency       1.00      0.67      0.80         3
+                                   vitreous degeneration       0.46      0.76      0.58        68
+                                     vitreous hemorrhage       0.00      0.00      0.00         5
+                                        vocal cord polyp       1.00      0.83      0.91        18
+                                                volvulus       0.00      0.00      0.00         2
+                                  von willebrand disease       0.00      0.00      0.00         1
+                                           vulvar cancer       0.00      0.00      0.00         1
+                                         vulvar disorder       0.91      0.91      0.91        32
+                                              vulvodynia       0.88      0.89      0.88       244
+                             wernicke korsakoff syndrome       0.00      0.00      0.00         1
+                                white blood cell disease       0.86      0.92      0.89       101
+                                          whooping cough       1.00      0.22      0.36         9
+                                          wilson disease       1.00      0.33      0.50         3
+                                         yeast infection       0.95      0.91      0.93        94
+                                     zenker diverticulum       0.00      0.00      0.00         2
+
+                                                accuracy                           0.86     49386
+                                               macro avg       0.76      0.72      0.73     49386
+                                            weighted avg       0.86      0.86      0.85     49386

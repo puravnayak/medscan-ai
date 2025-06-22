@@ -1,0 +1,26 @@
+# Ignore all pickle files (models, serialized data)
+*.pkl
+
+# Ignore all CSV files (data)
+*.csv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Log files
+*.log
