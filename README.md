@@ -6,6 +6,10 @@ MedScan.AI is a full-stack AI-powered web application that predicts possible dis
 
 ## 🌐 Live Demo
 
+You can check out the live deployed version of **MedScan.AI** here:
+
+🔗 **[Visit MedScan.AI](https://medscan-ai.vercel.app/)**
+
 > ![Live Demo Screenshot](extras/images/demo.png)
 
 ---
@@ -87,21 +91,20 @@ cd medscan-ai
 
 ### Backend Setup (FastAPI)
 ```bash
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-pip install -r requirements.txt
+pip install -r backend/requirements.txt
 
 cd backend
 uvicorn app.main:app --reload
 ```
 
 ### Frontend Setup (React)
+Note: Change the BASE_URL in ChatBot.js to run locally
+
 ```bash
 cd frontend
 npm install
 npm start
 ```
-
 ---
 
 ## Credits
