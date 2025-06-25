@@ -1,6 +1,11 @@
 import React, { useState, useEffect, useRef } from "react";
 import "./ChatBot.css";
 
+
+// const BASE_URL = "http://127.0.0.1:8000"; // Local testing
+const BASE_URL = "https://medscan-ai.onrender.com"; // Deployed backend
+
+
 const getOrCreateSessionId = () => {
   const existing = localStorage.getItem("medscan_session_id");
   if (existing) return existing;
@@ -44,7 +49,7 @@ const Chatbot = () => {
     setLoading(true);
 
     try {
-      const res = await fetch("http://127.0.0.1:8000/predict", {
+      const res = await fetch(`${BASE_URL}/predict`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -79,7 +84,7 @@ const Chatbot = () => {
   };
 
   const resetSession = async () => {
-    await fetch("http://127.0.0.1:8000/reset", {
+    await fetch(`${BASE_URL}/predict`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
