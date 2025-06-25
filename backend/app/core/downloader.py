@@ -2,6 +2,7 @@ import os
 import gdown
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) 
+MODEL_DIR = os.path.abspath(os.path.join(BASE_DIR, "../models"))
 
 file_ids = {
     "models/logistic_regression.pkl": "1FcoXQBXkOFXzKkwm5Z1tz_vcqdoCzvhe",
@@ -11,11 +12,10 @@ file_ids = {
 }
 
 def download_missing_models():
-    model_dir = os.path.join(BASE_DIR, "models")
-    os.makedirs(model_dir, exist_ok=True)
+    os.makedirs(MODEL_DIR, exist_ok=True)
 
     for rel_path, file_id in file_ids.items():
-        full_path = os.path.join(BASE_DIR, rel_path)
+        full_path = os.path.join(MODEL_DIR, rel_path)
         if not os.path.exists(full_path):
             print(f"Downloading {rel_path}...")
             gdown.download(id=file_id, output=full_path, quiet=False)
