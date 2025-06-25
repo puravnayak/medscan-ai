@@ -2,6 +2,9 @@ import joblib
 import numpy as np
 from app.utils.cleaner import clean_text
 from app.core.config import CONFIDENCE_THRESHOLD
+from app.core.downloader import download_missing_models
+
+download_missing_models()
 
 vectorizer = joblib.load("models/tfidf_vectorizer.pkl")
 log_model = joblib.load("models/logistic_regression.pkl")

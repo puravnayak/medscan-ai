@@ -5,10 +5,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MODEL_DIR = os.path.abspath(os.path.join(BASE_DIR, "../models"))
 
 file_ids = {
-    "models/logistic_regression.pkl": "1FcoXQBXkOFXzKkwm5Z1tz_vcqdoCzvhe",
-    "models/svm.pkl": "16POS1zHpfypNP57JePz-Bafrh-OYGxdd",
-    "models/tfidf_vectorizer.pkl": "1P1gmI5BwD75ke2AqX9c12r7gLJf1auIT",
-    "models/label_encoder.pkl": "1BdAouLr_TyLG7Ye3xd4ftJ0CEvnqxyXr"
+    "logistic_regression.pkl": "1FcoXQBXkOFXzKkwm5Z1tz_vcqdoCzvhe",
+    "svm.pkl": "16POS1zHpfypNP57JePz-Bafrh-OYGxdd",
+    "tfidf_vectorizer.pkl": "1P1gmI5BwD75ke2AqX9c12r7gLJf1auIT",
+    "label_encoder.pkl": "1BdAouLr_TyLG7Ye3xd4ftJ0CEvnqxyXr"
 }
 
 def download_missing_models():
