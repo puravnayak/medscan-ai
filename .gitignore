@@ -1,5 +1,5 @@
 # Ignore all pickle files (models, serialized data)
-*.pkl
+# *.pkl
 
 # Ignore all CSV files (data)
 *.csv
